@@ -1,0 +1,59 @@
+body {
+  background-color: black;
+}
+hr {
+  background-color: none;
+  border-style: dotted none none none;
+  border-color: silver;
+  border-width: 3px;
+  height: 0px;
+  width: 99%;
+}
+h1 {
+  color: lightblue;
+}
+h1:hover {
+  color: pink
+}
+h2 {
+  color: white;
+}
+h3 {
+color: silver;
+}
+h4 {
+  color: white;
+}
+h5 {
+  color: white;
+}
+h6 {
+  color: white;
+}
+p {
+  color: white;
+}
+li {
+  color: lightgray;
+}
+th {
+  color: lightgray;
+}
+td {
+  color: lightgray;
+}
+label {
+  color: lightgray;
+}
+a {
+  color: deepskyblue;
+}
+a:hover {
+  color: red;
+}
+img {
+  background-color: navy;
+}
+img:hover {
+  background-color: maroon;
+}
