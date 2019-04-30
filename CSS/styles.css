@@ -47,6 +47,7 @@ label {
 }
 a {
   color: deepskyblue;
+  text-decoration: none;
 }
 a:hover {
   color: red;
