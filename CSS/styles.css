@@ -58,3 +58,11 @@ img {
 img:hover {
   background-color: maroon;
 }
+input {
+  background: black;
+  color: white;
+}
+textarea {
+  background: black;
+  color: white;
+}
